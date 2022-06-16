@@ -1,3 +1,3 @@
 # 0.1.0+1
 
-- TODO: Describe initial release.
+- Creates freezed compatible bloc structure along with screen and widget folder structure

@@ -55,10 +55,6 @@ dev_dependencies:
 
 Thank you for using Bloc_feature brick!
 
-
-
-
 - [Official Mason Documentation][2]
 
 [1]: https://github.com/felangel/mason
-
