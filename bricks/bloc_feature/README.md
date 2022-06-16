@@ -34,7 +34,6 @@ This will create the following folder structure [considering the name of the fea
     |   |- organism
     |   | |- feedback_widget.dart
 
-
 This brick generates freezed compatible code so the following packages are required to work properly:
 
 ```
