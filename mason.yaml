@@ -8,7 +8,7 @@ bricks:
   # Uncomment the following lines to import
   # a brick from a remote git url.
   bloc_feature:
-    path: bloc_feature
+    path: bricks/bloc_feature
   
   # widget:
   #   git:
