@@ -1,0 +1,1 @@
+export '../{{name}}/presentation/screen/{{name}}_screen.dart';
